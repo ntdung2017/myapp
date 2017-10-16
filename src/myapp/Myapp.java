@@ -16,6 +16,7 @@ public class Myapp {
      */
     public static void main(String[] args) {
         System.out.println("Xin chào các Bạn");
+        System.out.println("Chúc các Bạn nhiều sức khỏe");
     }
     
 }
